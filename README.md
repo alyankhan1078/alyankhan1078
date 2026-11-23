@@ -5,8 +5,8 @@
 **Full-Stack Developer & Founder** — Building real products for real customers: design → code → launch → grow
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-YOUR--LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:alyankhan1078@gmail.com"><img src="https://img.shields.io/badge/Email-alyankhan1078@gmai.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/UNIVERSITY-BS(SE)%20•%20Expected%2027-0B2545?style=flat-square"/>
+<a href="mailto:alyankhan1078@gmail.com"><img src="https://img.shields.io/badge/Email-alyankhan1078@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/UNIVERSITY-BS%20(SE)%20•%20Expected%202027-0B2545?style=flat-square"/>
 
 </div>
 
@@ -14,7 +14,6 @@
 
 ## Certifications
 
-<img src="https://img.shields.io/badge/CERTIFICATE%20NAME-PLATFORM-F7A41D?style=flat-square"/>
 <img src="https://img.shields.io/badge/GitHub%20Foundations-Certified-181717?style=flat-square&logo=github&logoColor=white"/>
 
 ---
@@ -36,11 +35,13 @@ A live e-commerce site for a handmade crochet bag brand from Waziristan. It has 
 </td>
 <td width="50%" valign="top">
 
-### [Project Two Name](https://github.com/USERNAME/REPO)
+### [Sialkot Cricket Kits — Cricket Gear Store](https://sialkot-cricket-kits-rust.vercel.app)
 
-Two or three lines on what it does, who it's for, and the most impressive thing about how it works.
+An international online store for handmade Sialkot cricket equipment: bats, a custom bat workshop, protective gear, kit bags and teamwear. Shoppers can filter by category, price and availability, sort results, search, and switch between 14 currencies (GBP, USD, PKR, EUR and more). Orders go through pre-filled WhatsApp messages. The site also has a downloadable PDF catalogue, full policy pages, and SEO with Open Graph tags.
 
-**Tech:** `Tech 1` `Tech 2` `Tech 3`
+**Tech:** `Next.js` `Tailwind CSS` `Vercel`
+
+🔗 **Live:** [sialkot-cricket-kits](https://sialkot-cricket-kits-rust.vercel.app)
 
 </td>
 </tr>
