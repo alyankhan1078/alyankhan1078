@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Alyan Wazir 👋
 
-<!--
-**alyankhan1078/alyankhan1078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[One line about you, e.g. "Student and developer from Pakistan who builds websites for real businesses."]
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+- **[Project 1]**: [what it does in one line]
+- **[Project 2]**: [what it does in one line]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured projects
+| Project | What it is | Tech |
+|---|---|---|
+| [Project name](link) | [one line] | [e.g. HTML, CSS, JS] |
+| [Project name](link) | [one line] | [tech] |
+
+## 🛠️ Tech I use
+**Languages:** [e.g. Python · JavaScript · C++]
+**Web:** [e.g. React · Next.js · Tailwind]
+**Tools:** Git · VS Code · Vercel
+
+## 📫 Reach me
+- Instagram: [@yourhandle](https://instagram.com/yourhandle)
+- Email: your-email@example.com
