@@ -1,22 +1,59 @@
-# Hi, I'm Alyan Wazir 👋
+<div align="center">
 
-[One line about you, e.g. "Student and developer from Pakistan who builds websites for real businesses."]
+# Alyan Wazir
 
-## 🔭 What I'm working on
-- **[Project 1]**: [what it does in one line]
-- **[Project 2]**: [what it does in one line]
+**Full-Stack Developer & Founder** — Building real products for real customers: design → code → launch → grow
 
-## 🚀 Featured projects
-| Project | What it is | Tech |
-|---|---|---|
-| [Project name](link) | [one line] | [e.g. HTML, CSS, JS] |
-| [Project name](link) | [one line] | [tech] |
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-YOUR--LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR@EMAIL.com"><img src="https://img.shields.io/badge/Email-YOUR@EMAIL.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/UNIVERSITY-DEGREE%20•%20Expected%20YEAR-0B2545?style=flat-square"/>
 
-## 🛠️ Tech I use
-**Languages:** [e.g. Python · JavaScript · C++]
-**Web:** [e.g. React · Next.js · Tailwind]
-**Tools:** Git · VS Code · Vercel
+</div>
 
-## 📫 Reach me
-- Instagram: [@yourhandle](https://instagram.com/yourhandle)
-- Email: your-email@example.com
+---
+
+## Certifications
+
+<img src="https://img.shields.io/badge/CERTIFICATE%20NAME-PLATFORM-F7A41D?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub%20Foundations-Certified-181717?style=flat-square&logo=github&logoColor=white"/>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Durkho — Handmade Crochet Bag Store](https://durkho.com.pk)
+
+A live e-commerce site for a handmade crochet bag brand from Waziristan. It has a swipeable circular showcase of models holding the bags, a "yarn thread" collection page that draws down as you scroll, and a cart with checkout through JazzCash, Easypaisa, bank transfer (with a payment screenshot upload) or Cash on Delivery. It also has full SEO and is deployed on Vercel with a custom `.com.pk` domain.
+
+**Tech:** `Next.js` `Tailwind CSS` `Vercel`
+
+🔗 **Live:** [durkho.com.pk](https://durkho.com.pk)
+
+</td>
+<td width="50%" valign="top">
+
+### [Project Two Name](https://github.com/USERNAME/REPO)
+
+Two or three lines on what it does, who it's for, and the most impressive thing about how it works.
+
+**Tech:** `Tech 1` `Tech 2` `Tech 3`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
