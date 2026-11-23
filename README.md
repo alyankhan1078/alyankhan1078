@@ -5,7 +5,7 @@
 **Full-Stack Developer & Founder** — Building real products for real customers: design → code → launch → grow
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-YOUR--LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR@EMAIL.com"><img src="https://img.shields.io/badge/Email-YOUR@EMAIL.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:alyankhan1078@gmail.com"><img src="https://img.shields.io/badge/Email-alyankhan1078@gmai.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/UNIVERSITY-DEGREE%20•%20Expected%20YEAR-0B2545?style=flat-square"/>
 
 </div>
